@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/x4sholly/DevOps_Microservices/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/x4sholly/DevOps_Microservices/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/x4sholly/Project4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/x4sholly/Project4/tree/main)
 
 ## Project Overview
 
